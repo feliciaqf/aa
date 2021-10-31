@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["vendors~ChannelSponsor"],{"455b":function(n,o,p){},dfa4:function(n,o,p){}}]);
